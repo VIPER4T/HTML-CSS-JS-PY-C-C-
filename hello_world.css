@@ -1,0 +1,15 @@
+*{margin: 0; padding: 0; box-sizing: border-box;     font-family: 'Consolas';}
+
+body
+{
+    background: black;
+}
+h1
+{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    color: white;
+}
